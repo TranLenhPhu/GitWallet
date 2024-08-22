@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GitWallet.iml" filepath="$PROJECT_DIR$/.idea/GitWallet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paygate-checkout-core/paygate-checkout-core.iml" filepath="$PROJECT_DIR$/paygate-checkout-core/paygate-checkout-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paygate-checkout-web/paygate-checkout-web.iml" filepath="$PROJECT_DIR$/paygate-checkout-web/paygate-checkout-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paygate-lib-encryption/paygate-lib-encryption.iml" filepath="$PROJECT_DIR$/paygate-lib-encryption/paygate-lib-encryption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paygate-wallet-core/paygate-wallet-core.iml" filepath="$PROJECT_DIR$/paygate-wallet-core/paygate-wallet-core.iml" />
+    </modules>
+  </component>
+</project>
